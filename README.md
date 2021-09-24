@@ -9,6 +9,7 @@ Awesome Apps for Apple Devices
 - [Resilio Sync](https://www.resilio.com/individuals/) `Universal`
 
 ### Notes
+- [Notion](https://www.notion.so) `Universal`
 - [Upnote](https://getupnote.com) `Universal`
 
 ### ScreenShot Tool
