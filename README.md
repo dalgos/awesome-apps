@@ -1,10 +1,11 @@
 # awesome-apps
 Awesome Apps for Apple Devices
 
-## MacOS
-
 ### File Manager
-- [Marta](https://marta.sh)
+- [Marta](https://marta.sh) `MacOS`
+
+### Notes
+- [Upnote](https://getupnote.com) `Universal`
 
 ### ScreenShot Tool
-- [Shotrr](https://shottr.cc)
+- [Shotrr](https://shottr.cc) `MacOS`
