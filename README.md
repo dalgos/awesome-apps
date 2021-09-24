@@ -14,3 +14,10 @@ Awesome Apps for Apple Devices
 
 ### ScreenShot Tool
 - [Shotrr](https://shottr.cc) `MacOS` `Free`
+
+### System
+- [Mac Fan Control](https://crystalidea.com/macs-fan-control) `MacOS` `Free`
+
+### Video Player
+- [Elmedia Video Player](https://www.elmedia-video-player.com) `MacOS` `Free`
+- [Infuse](https://apps.apple.com/kr/app/infuse-7/id1136220934) `MacOS` `In App Purchases`
