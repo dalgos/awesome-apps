@@ -6,6 +6,7 @@ Awesome Apps for Apple Devices
 
 ### File Manager
 - [Marta](https://marta.sh) `MacOS` `Free`
+- [Resilio Sync](https://www.resilio.com/individuals/) `Universal`
 
 ### Notes
 - [Upnote](https://getupnote.com) `Universal`
