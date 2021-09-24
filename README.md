@@ -1,6 +1,9 @@
 # awesome-apps
 Awesome Apps for Apple Devices
 
+### App Manager
+- [AppCleaner](https://freemacsoft.net/appcleaner/) `MacOS`
+
 ### File Manager
 - [Marta](https://marta.sh) `MacOS`
 
